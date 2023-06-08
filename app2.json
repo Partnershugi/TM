@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "REAL": false,
-      "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
-      "ADMOB_INTERS": "ca-app-pub-3940256099942544/1033173712",
-      "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+      "REAL": true,
+      "ADMOB_BANNER": "ca-app-pub-8369290139035375/1482346635",
+      "ADMOB_INTERS": "ca-app-pub-8369290139035375/8320089869",
+      "ADMOB_NATIVE": "ca-app-pub-8369290139035375/7769425529",
 
       "MAX_BANNER": "9a7ce1ee8c4797a3",
       "MAX_INTERS": "1995d7ef3e0f8e99",
@@ -25,29 +25,29 @@
   ],
   "Content": [
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE":"JUDUL PERTAMA",
-      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+      "GUIDE_THUMB": "https://ibb.co/6XMYFNK",
+      "GUIDE_TITLE":"Toca Life World",
+      "GUIDE_URL": "https://telegra.ph/Toca-Life-World-06-08"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE":"JUDUL KEDUA",
-      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+      "GUIDE_THUMB": "https://ibb.co/6XMYFNK",
+      "GUIDE_TITLE":"Toca Life World: How to find pets",
+      "GUIDE_URL": "https://telegra.ph/Toca-Life-World-How-to-find-pets-06-08"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE":"JUDUL KETIGA",
-      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+      "GUIDE_THUMB": "https://ibb.co/6XMYFNK",
+      "GUIDE_TITLE":"Toca Life World Cooking Recipes",
+      "GUIDE_URL": "https://telegra.ph/Toca-Life-World-Cooking-Recipes-06-08"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE":"JUDUL KEEMPAT",
-      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+      "GUIDE_THUMB": "https://ibb.co/6XMYFNK",
+      "GUIDE_TITLE":"Toca Life World A Beginner’s Guide",
+      "GUIDE_URL": "https://telegra.ph/Toca-Life-World-A-Beginners-Guide-06-08"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE":"JUDUL KELIMA",
-      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+      "GUIDE_THUMB": "https://ibb.co/6XMYFNK",
+      "GUIDE_TITLE":"Toca Life World: Game Secrets",
+      "GUIDE_URL": "https://telegra.ph/Toca-Life-World-Game-Secrets-06-08"
     }
   ]
 }
